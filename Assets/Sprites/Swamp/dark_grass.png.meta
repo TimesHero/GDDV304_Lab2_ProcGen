@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 2ead00876c6dfce479e260223bcdde99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7597387557176277074
+    second: dark_grass_0
+  - first:
+      213: -4911330867390000881
+    second: dark_grass_1
+  - first:
+      213: 8267022717826969064
+    second: dark_grass_2
+  - first:
+      213: 6789165631568154298
+    second: dark_grass_3
+  - first:
+      213: 3702665539163332950
+    second: dark_grass_4
+  - first:
+      213: -3711100762381273800
+    second: dark_grass_5
+  - first:
+      213: -4069332743363108052
+    second: dark_grass_6
+  - first:
+      213: 257233738352357167
+    second: dark_grass_7
+  - first:
+      213: -8539366352318783026
+    second: dark_grass_8
+  - first:
+      213: 1233803295737554149
+    second: dark_grass_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dark_grass_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258f6760bb75f6960800000000000000
+      internalID: 7597387557176277074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_grass_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23e9fe1e63d687c0800000000000000
+      internalID: -4069332743363108052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dark_grass_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a8a0b1c88a1274d843f01a1b30f1c0
+      internalID: -580342902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 51acc8d7ccb87234eb650d4a86a2ceb8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dark_grass_0: 7597387557176277074
+      dark_grass_1: -4911330867390000881
+      dark_grass_10: 2093106175
+      dark_grass_11: -1683940473
+      dark_grass_12: -188240444
+      dark_grass_13: -580342902
+      dark_grass_14: 822156422
+      dark_grass_15: -435234087
+      dark_grass_16: -1567941261
+      dark_grass_17: 1235938747
+      dark_grass_18: -1210552797
+      dark_grass_19: -1087142583
+      dark_grass_2: 8267022717826969064
+      dark_grass_20: 306138145
+      dark_grass_21: 1047069849
+      dark_grass_22: -1533472810
+      dark_grass_23: -635380491
+      dark_grass_24: -1217801174
+      dark_grass_25: 333154975
+      dark_grass_26: -1385469621
+      dark_grass_27: -1896699466
+      dark_grass_28: 1318654884
+      dark_grass_29: 637636867
+      dark_grass_3: 6789165631568154298
+      dark_grass_30: -1030393106
+      dark_grass_31: -1335846566
+      dark_grass_32: 2041264491
+      dark_grass_33: 1797710176
+      dark_grass_34: -1868855385
+      dark_grass_35: 499362357
+      dark_grass_36: 1400437907
+      dark_grass_37: -2139994682
+      dark_grass_38: -2138155304
+      dark_grass_39: 1459429418
+      dark_grass_4: 3702665539163332950
+      dark_grass_40: 1256667016
+      dark_grass_5: -3711100762381273800
+      dark_grass_6: -4069332743363108052
+      dark_grass_7: 257233738352357167
+      dark_grass_8: -8539366352318783026
+      dark_grass_9: 1233803295737554149
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

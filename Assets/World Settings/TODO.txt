@@ -1,0 +1,7 @@
+5 MARKS
+
+Create a new World Settings ScriptableObject and define two "biomes". 
+	- one for mud (threshold 0) 
+	- one for stone (threshold 1). 
+	
+Assign the provided Random Mud and Random Stone tiles in Tiles>Swamp Tiles

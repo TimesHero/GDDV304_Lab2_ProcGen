@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: b2ad00a8961b4354ebc770fa5348c618
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9214168702388336428
+    second: granit_0
+  - first:
+      213: 5292927933235028104
+    second: granit_1
+  - first:
+      213: 7672917888380050739
+    second: granit_2
+  - first:
+      213: -3203272580061018608
+    second: granit_3
+  - first:
+      213: 7862044561382217341
+    second: granit_4
+  - first:
+      213: -6870920698544055330
+    second: granit_5
+  - first:
+      213: 4233097030549329927
+    second: granit_6
+  - first:
+      213: -8894483201766232633
+    second: granit_7
+  - first:
+      213: -1037859245589537609
+    second: granit_8
+  - first:
+      213: -23663915295811246
+    second: granit_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: granit_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27f066bd9d4fdf70800000000000000
+      internalID: 9214168702388336428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: granit_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70857a5425bfeba30800000000000000
+      internalID: 4233097030549329927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5c82d0474df89104b8397be40dbb5636
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      granit_0: 9214168702388336428
+      granit_1: 5292927933235028104
+      granit_10: -1682127587
+      granit_11: 1476743919
+      granit_12: -1268822820
+      granit_13: 185404449
+      granit_14: 1003842681
+      granit_15: 123023518
+      granit_16: -110278355
+      granit_17: -435215967
+      granit_18: 1756751439
+      granit_19: 2029791515
+      granit_2: 7672917888380050739
+      granit_20: 622136464
+      granit_21: 342858810
+      granit_22: 117175283
+      granit_23: -1625910008
+      granit_24: 865521863
+      granit_25: 1817365315
+      granit_26: 720583945
+      granit_27: -667744999
+      granit_28: -59598418
+      granit_29: 2061629458
+      granit_3: -3203272580061018608
+      granit_30: 376794045
+      granit_31: 1777660485
+      granit_32: -1908159217
+      granit_33: 1511247345
+      granit_34: 1756307294
+      granit_35: -1463366770
+      granit_36: -557858111
+      granit_37: -1205630560
+      granit_4: 7862044561382217341
+      granit_5: -6870920698544055330
+      granit_6: 4233097030549329927
+      granit_7: -8894483201766232633
+      granit_8: -1037859245589537609
+      granit_9: -23663915295811246
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
