@@ -45,13 +45,30 @@ public class CellularAutomataGenerator : Generator
     {
         // PSEUDOCODE:
         // for each x in grid width
+        for (int x = 0; x < width; x++)
+        {
         //   for each y in grid height
+            for (int y = 0; y < height; y++)
+            {
         //     if border clamping is enabled AND this cell is on an outer edge
+                if (clampBorders && (x == 0 || x == width -1 || y == 0 || y == height - 1))
+                {
         //         set this cell to "wall" (e.g., 1)
+                    map[x,y] = 1;
+
+                }
         //     else
+                else
+                {
         //         designate as wall or empty cell randomly using the fill percentage
         //         set the cell accordingly (e.g., 1 for wall, 0 for empty)
+                    map[x,y] = 0;
+                }
+            }
+
+        }
     }
+        
 
     // 5 MARKS
     private void StepSimulation()
