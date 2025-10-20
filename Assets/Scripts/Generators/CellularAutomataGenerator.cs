@@ -60,9 +60,10 @@ public class CellularAutomataGenerator : Generator
         //     else
                 else
                 {
-        //         designate as wall or empty cell randomly using the fill percentage
-        //         set the cell accordingly (e.g., 1 for wall, 0 for empty)
-                    map[x,y] = 0;
+                    //         designate as wall or empty cell randomly using the fill percentage
+                    //         set the cell accordingly (e.g., 1 for wall, 0 for empty)
+                    float roll = Random.value;
+                    map[x, y] = (roll < fillPercent) ? 1f : 0f;
                 }
             }
 
