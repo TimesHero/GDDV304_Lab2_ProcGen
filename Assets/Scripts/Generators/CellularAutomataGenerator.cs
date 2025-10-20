@@ -75,23 +75,39 @@ public class CellularAutomataGenerator : Generator
     {
         // PSEUDOCODE:
         // create a new grid the same size as the current map
+        float[,] newMap = new float[width,height];
         //
         // for each x in grid width
+        for (int x = 0; x < width; x++)
+        {
         //   for each y in grid height
+            for (int y = 0; y < height; y++)
+            {
         //     use CountWallNeighbours to figure out how many neighboring cells around (x,y) are walls
-        //
+                int wallCount = CountWallNeighbours(x,y);
         //     if the current cell is a wall
+                if (map[x, y] == 1)
+                {
         //         if neighbour count meets or exceeds the "birth" threshold
         //             mark this cell as wall in the new grid
         //         else
         //             mark this cell as empty in the new grid
+                    newMap[x,y] = (wallCount >= birthLimit) ? 1f : 0f;
+                }
         //     else (current cell is empty)
+                else
+                {
         //         if neighbour count is greater than the "death" threshold
         //             mark this cell as wall in the new grid
         //         else
         //             mark this cell as empty in the new grid
-        //
+                    newMap[x,y] = (wallCount > deathLimit) ? 1f : 0f;
+                }
+            }
+        //  
+        }
         // after processing all cells, replace the current map with the new grid
+        map = newMap;
     }
 
     private int CountWallNeighbours(int cx, int cy)
